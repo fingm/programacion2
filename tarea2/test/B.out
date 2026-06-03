@@ -1,0 +1,19 @@
+1>La cantidad en la cadena 0 es 0.
+2>Se insertó (3,3.00) en la cadena 9.
+3>3 no está en la cadena 1.
+4>La cadena 1 es :
+5>3 está en la cadena 9.
+6>Se insertó (5,5.00) en la cadena 9.
+7>Se insertó (6,6.00) en la cadena 9.
+8>Se insertó (7,7.00) en la cadena 9.
+9>La cantidad en la cadena 9 es 4.
+10>7 está en la cadena 9.
+11>5 está en la cadena 9.
+12>La primera aparición de 7 en la cadena 9 es (7,7.00)
+13>La primera aparición de 5 en la cadena 9 es (5,5.00)
+14>La cadena 9 es :(7,7.00)(6,6.00)(5,5.00)(3,3.00)
+15>Se removió la primera aparición de 6 de la cadena 9.
+16>Se removió la primera aparición de 7 de la cadena 9.
+17>Se removió la primera aparición de 3 de la cadena 9.
+18>La cadena 9 es :(5,5.00)
+19>Fin.

@@ -1,0 +1,23 @@
+cantidadEnCadena
+estaEnCadena 5
+insertarAlInicio 5 5.0
+primeroEnCadena
+imprimirCadena
+estaEnCadena 5
+infoCadena 5
+removerDeCadena 5
+cantidadEnCadena
+insertarAlInicio 9 9.0
+insertarAlInicio 8 8.0
+insertarAlInicio 7 7.0
+insertarAlInicio 6 6.0
+imprimirCadena
+primeroEnCadena
+infoCadena 9
+infoCadena 7
+infoCadena 6
+removerDeCadena 7
+removerDeCadena 6
+removerDeCadena 9
+primeroEnCadena
+Fin

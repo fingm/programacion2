@@ -1,0 +1,90 @@
+4c4
+< 4>El prioritario es 5
+---
+> 4>El prioritario es 0
+7,8c7,8
+< 7>El prioritario es 5
+< 8>La prioridad de 5 es 15.00.
+---
+> 7>El prioritario es 0
+> 8>La prioridad de 5 es 0.00.
+10,12c10,12
+< 10>En la cp está 5.
+< 11>El prioritario es 5
+< 12>La prioridad de 5 es 15.00.
+---
+> 10>En la cp no está 5.
+> 11>El prioritario es 0
+> 12>La prioridad de 5 es 0.00.
+14,16c14,16
+< 14>En la cp está 5.
+< 15>El prioritario es 5
+< 16>La prioridad de 5 es 10.00.
+---
+> 14>En la cp no está 5.
+> 15>El prioritario es 0
+> 16>La prioridad de 5 es 0.00.
+18,21c18,21
+< 18>En la cp está 5.
+< 19>La prioridad de 5 es 10.00.
+< 20>El prioritario es 6
+< 21>La prioridad de 6 es 1.00.
+---
+> 18>En la cp no está 5.
+> 19>La prioridad de 5 es 0.00.
+> 20>El prioritario es 0
+> 21>La prioridad de 6 es 0.00.
+30,35c30,35
+< 30>El prioritario es 8
+< 31>La prioridad de 8 es -1.00.
+< 32>En la cp está 1.
+< 33>La prioridad de 1 es 12.00.
+< 34>En la cp está 10.
+< 35>La prioridad de 10 es -0.50.
+---
+> 30>El prioritario es 0
+> 31>La prioridad de 8 es 0.00.
+> 32>En la cp no está 1.
+> 33>La prioridad de 1 es 0.00.
+> 34>En la cp no está 10.
+> 35>La prioridad de 10 es 0.00.
+37c37
+< 37>El prioritario es 10
+---
+> 37>El prioritario es 0
+39,40c39,40
+< 39>El prioritario es 10
+< 40>La prioridad de 10 es -5.50.
+---
+> 39>El prioritario es 0
+> 40>La prioridad de 10 es 0.00.
+42,43c42,43
+< 42>El prioritario es 6
+< 43>La prioridad de 6 es 1.00.
+---
+> 42>El prioritario es 0
+> 43>La prioridad de 6 es 0.00.
+45c45
+< 45>La prioridad de 1 es 22.00.
+---
+> 45>La prioridad de 1 es 0.00.
+47,48c47,48
+< 47>El prioritario es 1
+< 48>La prioridad de 1 es -22.00.
+---
+> 47>El prioritario es 0
+> 48>La prioridad de 1 es 0.00.
+50c50
+< 50>La prioridad de 6 es 1.00.
+---
+> 50>La prioridad de 6 es 0.00.
+52c52
+< 52>La prioridad de 6 es 7.50.
+---
+> 52>La prioridad de 6 es 0.00.
+54,55c54,55
+< 54>El prioritario es 7
+< 55>La prioridad de 7 es -70.00.
+---
+> 54>El prioritario es 0
+> 55>La prioridad de 7 es 0.00.

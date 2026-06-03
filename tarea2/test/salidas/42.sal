@@ -1,0 +1,17 @@
+1>#  implementar removerPrimero.
+2>Se insertó (5,5.00) al inicio de la cadena.
+3>Se removió el primer elemento de la cadena.
+4>La cantidad es 0.
+5>Se insertó (6,6.00) al inicio de la cadena.
+6>Se insertó (7,7.00) al final de la cadena.
+7>Se removió el primer elemento de la cadena.
+8>La cantidad es 1.
+9>El primero es (7,7.00)
+10>(7,7.00)
+11>Se insertó (8,8.00) al inicio de la cadena.
+12>Se insertó (6,6.00) al inicio de la cadena.
+13>Se removió el primer elemento de la cadena.
+14>La cantidad es 2.
+15>El primero es (8,8.00)
+16>(8,8.00)(7,7.00)
+17>Fin.

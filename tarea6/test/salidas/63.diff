@@ -1,0 +1,44 @@
+4,5c4,5
+< 4>En la cp está 8.
+< 5>El prioritario es 8
+---
+> 4>En la cp no está 8.
+> 5>El prioritario es 0
+8c8
+< 8>La cp está vacia.
+---
+> 8>La cp está no vacía.
+18c18
+< 18>El prioritario es 8
+---
+> 18>El prioritario es 0
+20c20
+< 20>El prioritario es 10
+---
+> 20>El prioritario es 0
+22c22
+< 22>El prioritario es 2
+---
+> 22>El prioritario es 0
+26c26
+< 26>El prioritario es 6
+---
+> 26>El prioritario es 0
+28c28
+< 28>El prioritario es 8
+---
+> 28>El prioritario es 0
+30c30
+< 30>El prioritario es 2
+---
+> 30>El prioritario es 0
+39,40c39,40
+< 39>El prioritario es 1
+< 40>La prioridad de 1 es 12.00.
+---
+> 39>El prioritario es 0
+> 40>La prioridad de 1 es 0.00.
+42c42
+< 42>La cp está vacia.
+---
+> 42>La cp está no vacía.

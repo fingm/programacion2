@@ -1,0 +1,20 @@
+1>#  implementar reversoDeIterador.
+2>
+3>Agregando 1 a it.
+4>1 
+5>Agregando 2 a it.
+6>2 1 
+7>Estructuras reiniciadas.
+8>Agregando 1 a it.
+9>Agregando 2 a it.
+10>Agregando 3 a it.
+11>Agregando 4 a it.
+12>Agregando 5 a it.
+13>Agregando 6 a it.
+14>6 5 4 3 2 1 
+15>6 5 4 3 2 1 
+16>Agregando 13 a it.
+17>Agregando 12 a it.
+18>Agregando 11 a it.
+19>11 12 13 6 5 4 3 2 1 
+20>Fin.

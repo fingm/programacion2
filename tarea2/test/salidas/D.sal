@@ -1,0 +1,21 @@
+1>
+2>Se insertó (5,5.00) al final de la cadena.
+3>(5,5.00)
+4>Se removió el primer elemento de la cadena.
+5>Se insertó (6,6.00) al inicio de la cadena.
+6>El primero es (6,6.00)
+7>Se removió el primer elemento de la cadena.
+8>
+9>Se insertó (5,5.00) al final de la cadena.
+10>El primero es (5,5.00)
+11>Se insertó (6,6.00) al final de la cadena.
+12>Se insertó (7,7.00) al final de la cadena.
+13>Se insertó (8,8.00) al final de la cadena.
+14>(5,5.00)(6,6.00)(7,7.00)(8,8.00)
+15>Se removió el primer elemento de la cadena.
+16>Se removió el primer elemento de la cadena.
+17>(7,7.00)(8,8.00)
+18>Se removió el primer elemento de la cadena.
+19>Se removió el primer elemento de la cadena.
+20>
+21>Fin.

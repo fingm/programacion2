@@ -1,0 +1,20 @@
+# implementar reversoDeIterador
+reversoDeIterador
+agregarAIterador 1
+reversoDeIterador
+agregarAIterador 2
+reversoDeIterador
+reiniciarEstructuras
+agregarAIterador 1
+agregarAIterador 2
+agregarAIterador 3
+agregarAIterador 4
+agregarAIterador 5
+agregarAIterador 6
+reversoDeIterador
+reversoDeIterador
+agregarAIterador 13
+agregarAIterador 12
+agregarAIterador 11
+reversoDeIterador
+Fin

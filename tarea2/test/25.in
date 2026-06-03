@@ -1,0 +1,26 @@
+# implementar cadenaDeColCadenas
+cadenaDeColCadenas 0
+cadenaDeColCadenas 9
+insertarEnColCadenas 3 3.0 3
+cadenaDeColCadenas 0
+cadenaDeColCadenas 3
+cadenaDeColCadenas 9
+insertarEnColCadenas 2 2.0 3
+insertarEnColCadenas 5 5.0 3
+insertarEnColCadenas 8 8.0 3
+insertarEnColCadenas 1 1.0 3
+cadenaDeColCadenas 0
+cadenaDeColCadenas 3
+cadenaDeColCadenas 9
+insertarEnColCadenas 8 8.0 0
+insertarEnColCadenas 9 9.0 0
+insertarEnColCadenas 5 5.0 8
+insertarEnColCadenas 6 6.0 8
+insertarEnColCadenas 7 7.0 8
+insertarEnColCadenas 4 4.0 9
+cadenaDeColCadenas 0
+cadenaDeColCadenas 1
+cadenaDeColCadenas 3
+cadenaDeColCadenas 8
+cadenaDeColCadenas 9
+Fin

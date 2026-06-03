@@ -1,0 +1,98 @@
+copiaCadena
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+insertarAlInicio 5 5.0
+primeroEnCadena
+removerDeCadena 5
+insertarAlFinal 5 5.0
+infoCadena 5
+insertarAlInicio 3 3.0
+insertarAlInicio 2 2.0
+insertarAlFinal 8 8.0
+copiaCadena
+removerDeCadena 3
+removerDeCadena 5
+removerPrimero
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+cadenaDeColCadenas 0
+cantidadColCadenas 8
+estaEnColCadenas 5 5
+insertarEnColCadenas 5 5.0 5
+cadenaDeColCadenas 5
+removerDeColCadenas 5 5
+cadenaDeColCadenas 5
+insertarEnColCadenas 5 5.0 3
+insertarEnColCadenas 5 15.0 3
+insertarEnColCadenas 5 25.0 3
+insertarEnColCadenas 5 35.0 3
+insertarEnColCadenas 5 45.0 3
+insertarEnColCadenas 5 55.0 3
+removerDeColCadenas 5 3
+cadenaDeColCadenas 3
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+actualEnIterador
+avanzarIterador
+agregarAIterador 6
+agregarAIterador 7
+agregarAIterador 8
+agregarAIterador 9
+agregarAIterador 10
+reiniciarIterador
+actualEnIterador
+avanzarIterador
+actualEnIterador
+reiniciarEstructuras
+copiaCadena
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+insertarAlInicio 5 5.0
+primeroEnCadena
+removerDeCadena 5
+insertarAlFinal 5 5.0
+infoCadena 5
+insertarAlInicio 3 3.0
+insertarAlInicio 2 2.0
+insertarAlFinal 8 8.0
+copiaCadena
+removerDeCadena 3
+removerDeCadena 5
+removerPrimero
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+cadenaDeColCadenas 0
+cantidadColCadenas 8
+estaEnColCadenas 5 5
+insertarEnColCadenas 5 5.0 5
+cadenaDeColCadenas 5
+removerDeColCadenas 5 5
+cadenaDeColCadenas 5
+insertarEnColCadenas 5 5.0 3
+insertarEnColCadenas 5 15.0 3
+insertarEnColCadenas 5 25.0 3
+insertarEnColCadenas 5 35.0 3
+insertarEnColCadenas 5 45.0 3
+insertarEnColCadenas 5 55.0 3
+removerDeColCadenas 5 3
+cadenaDeColCadenas 3
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+actualEnIterador
+avanzarIterador
+agregarAIterador 6
+agregarAIterador 7
+agregarAIterador 8
+agregarAIterador 9
+agregarAIterador 10
+reiniciarIterador
+actualEnIterador
+avanzarIterador
+actualEnIterador
+Fin

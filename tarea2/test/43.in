@@ -1,0 +1,16 @@
+# implementar copiaCadena
+copiaCadena
+insertarAlInicio 5 5.0
+copiaCadena
+insertarAlInicio 6 6.0
+copiaCadena
+cadenaSiguiente 1
+copiaCadena
+insertarAlInicio 9 6.0
+insertarAlInicio 8 8.0
+insertarAlInicio 7 7.0
+insertarAlInicio 4 4.0
+insertarAlInicio 3 3.0
+cadenaSiguiente 1
+copiaCadena
+Fin

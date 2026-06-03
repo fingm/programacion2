@@ -1,0 +1,5 @@
+c3cb57b88b521dc6f86bcd97d3eb29f2c83240e3  src/cadena.cpp
+58cd42220fb80376bfb79123aa341dc2abc491c8  src/iterador.cpp
+db7a90f6aa9cf79a94e8c13edf01f0fcb747c6dc  src/abb.cpp
+ef180069ea1ae2763c9452c541e535723444e3a4  src/aplicaciones.cpp
+e65ed58fa093a368df7b9ca28c1f24cf7f4ae6e6  src/palabras.cpp

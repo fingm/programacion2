@@ -1,0 +1,6 @@
+1,2c1,2
+< 1>Bien.
+< 2>Fin.
+---
+> timeout: la orden monitorizada ha volcado un 'core'
+> Segmentation fault

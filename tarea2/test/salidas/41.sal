@@ -1,0 +1,24 @@
+1>#  implementar insertarAlFinal.
+2>Se insertó (5,5.00) al final de la cadena.
+3>El primero es (5,5.00)
+4>Se removió la primera aparición de 5 de la cadena.
+5>La cantidad es 0.
+6>Se insertó (6,6.00) al inicio de la cadena.
+7>Se insertó (7,7.00) al final de la cadena.
+8>El primero es (6,6.00)
+9>(6,6.00)(7,7.00)
+10>Se removió la primera aparición de 7 de la cadena.
+11>El primero es (6,6.00)
+12>Se insertó (6,16.10) al final de la cadena.
+13>El primero es (6,6.00)
+14>(6,6.00)(6,16.10)
+15>(6,16.10)(6,6.00)
+16>Estructuras reiniciadas.
+17>Se insertó (5,5.00) al final de la cadena.
+18>Se insertó (5,15.10) al final de la cadena.
+19>Se insertó (5,25.20) al final de la cadena.
+20>Se insertó (5,35.30) al final de la cadena.
+21>El primero es (5,5.00)
+22>(5,5.00)(5,15.10)(5,25.20)(5,35.30)
+23>(5,35.30)(5,5.00)(5,15.10)(5,25.20)
+24>Fin.

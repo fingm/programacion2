@@ -1,0 +1,17 @@
+# implementar removerPrimero
+insertarAlInicio 5 5.0
+removerPrimero
+cantidadEnCadena
+insertarAlInicio 6 6.0
+insertarAlFinal 7 7.0
+removerPrimero
+cantidadEnCadena
+primeroEnCadena
+imprimirCadena
+insertarAlInicio 8 8.0
+insertarAlInicio 6 6.0
+removerPrimero
+cantidadEnCadena
+primeroEnCadena
+imprimirCadena
+Fin

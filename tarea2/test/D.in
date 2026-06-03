@@ -1,0 +1,21 @@
+copiaCadena
+insertarAlFinal 5 5.0
+copiaCadena
+removerPrimero
+insertarAlInicio 6 6.0
+primeroEnCadena
+removerPrimero
+copiaCadena
+insertarAlFinal 5 5.0
+primeroEnCadena
+insertarAlFinal 6 6.0
+insertarAlFinal 7 7.0
+insertarAlFinal 8 8.0
+copiaCadena
+removerPrimero
+removerPrimero
+copiaCadena
+removerPrimero
+removerPrimero
+copiaCadena
+Fin

@@ -1,0 +1,26 @@
+1>#  implementar cadenaDeColCadenas.
+2>La cadena 0 es :
+3>La cadena 9 es :
+4>Se insertó (3,3.00) en la cadena 3.
+5>La cadena 0 es :
+6>La cadena 3 es :(3,3.00)
+7>La cadena 9 es :
+8>Se insertó (2,2.00) en la cadena 3.
+9>Se insertó (5,5.00) en la cadena 3.
+10>Se insertó (8,8.00) en la cadena 3.
+11>Se insertó (1,1.00) en la cadena 3.
+12>La cadena 0 es :
+13>La cadena 3 es :(1,1.00)(8,8.00)(5,5.00)(2,2.00)(3,3.00)
+14>La cadena 9 es :
+15>Se insertó (8,8.00) en la cadena 0.
+16>Se insertó (9,9.00) en la cadena 0.
+17>Se insertó (5,5.00) en la cadena 8.
+18>Se insertó (6,6.00) en la cadena 8.
+19>Se insertó (7,7.00) en la cadena 8.
+20>Se insertó (4,4.00) en la cadena 9.
+21>La cadena 0 es :(9,9.00)(8,8.00)
+22>La cadena 1 es :
+23>La cadena 3 es :(1,1.00)(8,8.00)(5,5.00)(2,2.00)(3,3.00)
+24>La cadena 8 es :(7,7.00)(6,6.00)(5,5.00)
+25>La cadena 9 es :(4,4.00)
+26>Fin.

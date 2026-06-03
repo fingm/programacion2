@@ -1,0 +1,70 @@
+4c4
+< 4>El prioritario es 5
+---
+> 4>El prioritario es 0
+7c7
+< 7>La cp está vacia.
+---
+> 7>La cp está no vacía.
+11c11
+< 11>El prioritario es 6
+---
+> 11>El prioritario es 0
+16,18c16,18
+< 16>El prioritario es 10
+< 17>La prioridad de 10 es 19.00.
+< 18>La prioridad de 5 es 15.00.
+---
+> 16>El prioritario es 0
+> 17>La prioridad de 10 es 0.00.
+> 18>La prioridad de 5 es 0.00.
+21c21
+< 21>El prioritario es 5
+---
+> 21>El prioritario es 0
+27c27
+< 27>La cp está vacia.
+---
+> 27>La cp está no vacía.
+31c31
+< 31>El prioritario es 5
+---
+> 31>El prioritario es 0
+35c35
+< 35>El prioritario es 2
+---
+> 35>El prioritario es 0
+37,38c37,38
+< 37>El prioritario es 10
+< 38>La prioridad de 10 es 19.00.
+---
+> 37>El prioritario es 0
+> 38>La prioridad de 10 es 0.00.
+40,41c40,41
+< 40>El prioritario es 3
+< 41>La prioridad de 3 es 9.00.
+---
+> 40>El prioritario es 0
+> 41>La prioridad de 3 es 0.00.
+43,44c43,44
+< 43>El prioritario es 6
+< 44>La prioridad de 6 es 6.00.
+---
+> 43>El prioritario es 0
+> 44>La prioridad de 6 es 0.00.
+46,47c46,47
+< 46>El prioritario es 5
+< 47>La prioridad de 5 es 5.00.
+---
+> 46>El prioritario es 0
+> 47>La prioridad de 5 es 0.00.
+49,50c49,50
+< 49>El prioritario es 2
+< 50>La prioridad de 2 es -19.00.
+---
+> 49>El prioritario es 0
+> 50>La prioridad de 2 es 0.00.
+53c53
+< 53>La cp está vacia.
+---
+> 53>La cp está no vacía.

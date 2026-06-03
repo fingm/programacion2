@@ -1,0 +1,71 @@
+0a1,15
+> ==7359== Invalid read of size 4
+> ==7359==    at 0x110D0F: insertarEnCP(unsigned int, double, _rep_colaDePrioridad*) (colaDePrioridad.cpp:92)
+> ==7359==    by 0x10986D: main (principal.cpp:184)
+> ==7359==  Address 0xc is not stack'd, malloc'd or (recently) free'd
+> ==7359== 
+> ==7359== 
+> ==7359== Process terminating with default action of signal 11 (SIGSEGV)
+> ==7359==  Access not within mapped region at address 0xC
+> ==7359==    at 0x110D0F: insertarEnCP(unsigned int, double, _rep_colaDePrioridad*) (colaDePrioridad.cpp:92)
+> ==7359==    by 0x10986D: main (principal.cpp:184)
+> ==7359==  If you believe this happened as a result of a stack
+> ==7359==  overflow in your program's main thread (unlikely but
+> ==7359==  possible), you can try to increase the size of the
+> ==7359==  main thread stack using the --main-stacksize= flag.
+> ==7359==  The main thread stack size used in this run was 8388608.
+9,54c24,30
+< 9>Se intenta insertar 5 con prioridad 5.00.
+< 10>Se intenta insertar 6 con prioridad 6.00.
+< 11>El prioritario es 6
+< 12>Se intenta insertar 3 con prioridad 9.00.
+< 13>Se intenta insertar 2 con prioridad -19.00.
+< 14>Se intenta insertar 10 con prioridad 19.00.
+< 15>Se intenta insertar 5 con prioridad 15.00.
+< 16>El prioritario es 10
+< 17>La prioridad de 10 es 19.00.
+< 18>La prioridad de 5 es 15.00.
+< 19>Se intenta eliminar el prioritario.
+< 20>En la cp no está 10.
+< 21>El prioritario es 5
+< 22>Se intenta eliminar el prioritario.
+< 23>Se intenta eliminar el prioritario.
+< 24>Se intenta eliminar el prioritario.
+< 25>La cp está no vacía.
+< 26>Se intenta eliminar el prioritario.
+< 27>La cp está vacia.
+< 28>Se cambió el criterio de prioridad.
+< 29>Se intenta insertar 5 con prioridad 5.00.
+< 30>Se intenta insertar 6 con prioridad 6.00.
+< 31>El prioritario es 5
+< 32>Se intenta insertar 3 con prioridad 9.00.
+< 33>Se intenta insertar 2 con prioridad -19.00.
+< 34>Se intenta insertar 10 con prioridad 19.00.
+< 35>El prioritario es 2
+< 36>Se cambió el criterio de prioridad.
+< 37>El prioritario es 10
+< 38>La prioridad de 10 es 19.00.
+< 39>Se intenta eliminar el prioritario.
+< 40>El prioritario es 3
+< 41>La prioridad de 3 es 9.00.
+< 42>Se intenta eliminar el prioritario.
+< 43>El prioritario es 6
+< 44>La prioridad de 6 es 6.00.
+< 45>Se intenta eliminar el prioritario.
+< 46>El prioritario es 5
+< 47>La prioridad de 5 es 5.00.
+< 48>Se intenta eliminar el prioritario.
+< 49>El prioritario es 2
+< 50>La prioridad de 2 es -19.00.
+< 51>La cp está no vacía.
+< 52>Se intenta eliminar el prioritario.
+< 53>La cp está vacia.
+< 54>Fin.
+---
+> 9>==7359== 156 (24 direct, 132 indirect) bytes in 1 blocks are definitely lost in loss record 11 of 11
+> ==7359==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==7359==    by 0x1106AA: crearCP(unsigned int) (colaDePrioridad.cpp:14)
+> ==7359==    by 0x10969A: main (principal.cpp:143)
+> ==7359== 
+> timeout: la orden monitorizada ha volcado un 'core'
+> Segmentation fault

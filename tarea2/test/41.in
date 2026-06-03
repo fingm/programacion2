@@ -1,0 +1,24 @@
+# implementar insertarAlFinal
+insertarAlFinal 5 5.0
+primeroEnCadena
+removerDeCadena 5
+cantidadEnCadena
+insertarAlInicio 6 6.0
+insertarAlFinal 7 7.0
+primeroEnCadena
+imprimirCadena
+removerDeCadena 7
+primeroEnCadena
+insertarAlFinal 6 16.1
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 1
+reiniciarEstructuras
+insertarAlFinal 5 5.0
+insertarAlFinal 5 15.1
+insertarAlFinal 5 25.2
+insertarAlFinal 5 35.3
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 3
+Fin

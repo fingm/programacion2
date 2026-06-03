@@ -1,0 +1,19 @@
+cantidadColCadenas 0
+insertarEnColCadenas 3 3.0 9
+estaEnColCadenas 3 1
+cadenaDeColCadenas 1
+estaEnColCadenas 3 9
+insertarEnColCadenas 5 5.0 9
+insertarEnColCadenas 6 6.0 9
+insertarEnColCadenas 7 7.0 9
+cantidadColCadenas 9
+estaEnColCadenas 7 9
+estaEnColCadenas 5 9
+infoEnColCadenas 7 9
+infoEnColCadenas 5 9
+cadenaDeColCadenas 9
+removerDeColCadenas 6 9
+removerDeColCadenas 7 9
+removerDeColCadenas 3 9
+cadenaDeColCadenas 9
+Fin
